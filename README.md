@@ -1,5 +1,5 @@
 # Customer-Segentation-Loan-Lead-Conversion
-weather or not the person will be able to fill his installments in time if the loan is approved
+weather or not the lead will be converted into acquisition.
 
 Data cleaning and Feature engineering is done as per the need to make the dataset workable
 For Visualisation Matplotlib and Seaborn Packages are used,
